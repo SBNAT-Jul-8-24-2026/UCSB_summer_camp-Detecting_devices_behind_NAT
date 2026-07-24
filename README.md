@@ -27,7 +27,7 @@ A network traffic analysis tool for detecting multiple devices hidden behind a N
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/SBNAT-Jul-8-24-2026/UCSB_summer_camp-Detecting_devices_behind_NAT>
 cd <project-directory>
 
 # Create and activate a virtual environment
@@ -37,8 +37,6 @@ source venv/bin/activate    # Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
-
-> If `requirements.txt` hasn't been generated yet, you can create one with `pip freeze > requirements.txt` or by using `pipreqs`.
 
 ## Usage
 
